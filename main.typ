@@ -1,4 +1,5 @@
 #import "/packages.typ": notebookinator
+#import notebookinator: *
 #import themes.radial: radial-theme, components
 
 #show: notebook.with(theme: radial-theme, cover: align(center + horizon)[

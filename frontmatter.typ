@@ -1,5 +1,5 @@
-#import "@local/notebookinator:1.0.1": *
-
+#import "/packages.typ": notebookinator
+#import notebookinator: *
 
 #create-frontmatter-entry(title: "About")[
   Here's some info about this amazing notebook!
