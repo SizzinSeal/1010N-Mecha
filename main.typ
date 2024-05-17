@@ -1,5 +1,4 @@
 #import "@local/notebookinator:1.0.1": *
-
 #import themes.radial: radial-theme, components
 
 #show: notebook.with(theme: radial-theme, cover: align(center + horizon)[
@@ -16,3 +15,8 @@
 
   ]
 ])
+#include "/frontmatter.typ"
+
+#include "entries/entries.typ"
+
+#include "./appendix.typ"
