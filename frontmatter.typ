@@ -134,7 +134,7 @@ Here are the existing types:
       - Programmer
     ]
     #text(12pt)[
-      "I've got 4 years robotics experience across VRC, FRC, and Bell AVR. I've competed as 1010N, 1010A, 1011A, 10012W, 6364, and 6464A. I'm an expert in designing, driving, and programming. My code powers the autonomous routines of world class teams, including JACKS, and 229V. I mentor 10012G, who hold the highest middle school skills autonomous score."
+      "I've got 4 years robotics experience across VRC, FRC, and Bell AVR. I've competed as 1010N, 1010A, 1011A, 10012W, 6364, and 6464A. I'm an expert in designing, driving, and programming. My code powers the autonomous routines of world class teams, including JACKS, and 229V. I mentor 10012G, who holds the highest middle school skills autonomous score."
     ]
   ],
   image("./assets/mugshots/liam.png")
