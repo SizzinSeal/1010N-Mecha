@@ -80,7 +80,7 @@ Just some ordinary text // Turns into text
 
 = Why Digital?
 
-Digital notebooks are more time-efficient than physical notebooks. We can, on average, write at about 20 words per minute, but we can type, on avage, about 80 words per minute. Inserting images is also much simpler, as well as writing code, making diagrams, etc.
+Digital notebooks are more time-efficient than physical notebooks. We can, on average, write at about 20 words per minute, but we can type, on avage, about 80 words per minute. Inserting images is also much simpler, as well as writing code, making diagrams, etc. Most high-level competitions also expect the notebook to be in digital format.
 
 == Why Typst?
 

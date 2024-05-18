@@ -4,7 +4,9 @@
 #import themes.radial: radial-theme, components
 
 #show: create-body-entry.with(
-  title: "My Awesome Entry",
-  type: "brainstorm", // The type of the entry depends on which theme you're using
-  date: datetime(year: 2024, month: 1, day: 1),
+  title: "Over Under - The Game",
+  type: "identify",
+  date: datetime(year: 2024, month: 5, day: 18),
+  author: "Liam Teale",
+  witness: "Alexander Teale"
 )

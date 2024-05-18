@@ -1,1 +1,1 @@
-#include "./example_entry.typ"
+#include "./1_the_game.typ"
