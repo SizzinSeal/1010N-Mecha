@@ -73,7 +73,7 @@ Just some ordinary text // Turns into text
     The source code can be found here: #link("https://github.com/SizzinSeal/1010N-Mecha").
     Alternatively, you can use the QR code to the right.
   ],
-  qrcode("https://github.com/SizzinSeal/1010N-Mecha", size: 5pt),
+  qrcode("https://github.com/SizzinSeal/1010N-Mecha", size: 4pt),
 )
 
 #colbreak()
@@ -137,7 +137,7 @@ Here are the existing types:
       "I've got 4 years robotics experience across VRC, FRC, and Bell AVR. I've competed as 1010N, 1010A, 1011A, 10012W, 6364, and 6464A. I'm an expert in designing, driving, and programming. My code powers the autonomous routines of world class teams, including JACKS, and 229V. I mentor 10012G, who holds the highest middle school skills autonomous score."
     ]
   ],
-  image("./assets/mugshots/liam.png")
+  image("./assets/mugshots/liam.png", width: 80%)
 )
 ]
 
